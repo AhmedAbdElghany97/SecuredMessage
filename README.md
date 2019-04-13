@@ -5,3 +5,6 @@ An Online Message System with that features:
 
 # Visit the Demo site:
 * https://securedmessage.000webhostapp.com
+
+# To see the dbDump you should visit:
+* https://securedmessage.000webhostapp.com/dbdump.pdf
