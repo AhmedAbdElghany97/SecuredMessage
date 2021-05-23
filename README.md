@@ -10,6 +10,6 @@ An Online Message System with that features:
 # To see the dbDump you should visit:
 * https://securedmessages.000webhostapp.com/dbdump.pdf
 
-Copyright © , Ahmed Abd Elghany. 
-(https://www.linkedin.com/in/ahmedabdelghany97).
-(https://www.facebook.com/Ahmed.AbdElghany97).
+> Ahmed Abd Elghany, Follow me in:
+> [Linkedin](https://www.linkedin.com/in/ahmedabdelghany97).
+> [Facebook](https://www.facebook.com/Ahmed.AbdElghany97).
