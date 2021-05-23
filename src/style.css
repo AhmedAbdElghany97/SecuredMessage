@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-image: linear-gradient(to top, #1c433c, #1c443d, #1d453e, #1d463f, #1d4740);
     background-position: center;  
 }
  .container{
